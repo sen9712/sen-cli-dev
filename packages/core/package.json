@@ -1,6 +1,6 @@
 {
   "name": "@sen-cli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "sen-cli-dev core",
   "author": "sen9712 <986843290@qq.com>",
   "homepage": "",
@@ -20,7 +20,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@sen-cli-dev/utils": "^1.0.2"
+    "@sen-cli-dev/utils": "^1.0.3"
   },
   "gitHead": "7cd4ba534a5e1e2388bb44eaf3c8f6ee138f91fc",
   "publishConfig": {
