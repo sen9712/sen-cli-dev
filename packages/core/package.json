@@ -1,6 +1,6 @@
 {
   "name": "@sen-cli-dev/core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sen-cli-dev core",
   "author": "sen9712 <986843290@qq.com>",
   "homepage": "",
@@ -17,6 +17,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-      "@sen-cli-dev/utils": "^1.0.0"
+    "@sen-cli-dev/utils": "^1.0.1"
   }
 }
