@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/core.js",
+  "bin": {
+    "sen-cli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -19,5 +22,5 @@
   "dependencies": {
     "@sen-cli-dev/utils": "^1.0.2"
   },
-  "gitHead": "9f543639d232c2a283a3c0b28cf37a127a330886"
+  "gitHead": "7cd4ba534a5e1e2388bb44eaf3c8f6ee138f91fc"
 }
